@@ -1,31 +1,31 @@
 # Site settings
 title: 读立写生
 header-img: "img/facebook.jpg"
-tagline: "cn"  
-description: "陈素封|读而立·写而生"  
+tagline: "cn"
+description: "懒人洪生"
 baseurl: ""
-url: "http://cnfeat"  
+url: "http://guanhauhong.github.io"
 
 # About/contact
-owner: 
-  name: " CnFeat"
-  email: CnFeat@gmail.com
-  bio: "写就是写的报酬"
+owner:
+  name: "guanhuahong"
+  email: guanhua.hong@outlook.com
+  bio: "写为了记忆，写为了分享，写为了未来"
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.png
 
-douban_username:  cnfeat
-twitter_username: feat
-github_username: cnfeat
-facebook_username: 
-weibo_username: cnfeat 
-zhihu_username: feat
+douban_username:
+twitter_username:
+github_username: guanhuahong
+facebook_username:
+weibo_username:
+zhihu_username:
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: pygments
 permalink: pretty
@@ -39,7 +39,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -47,7 +47,7 @@ defaults:
       author: "CnFeat"
       header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
+# Comments
 comments :
   provider : duoshuo
   duoshuo :
@@ -56,7 +56,7 @@ comments :
       short_name : cnfeat
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: 
+google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
