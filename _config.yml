@@ -31,7 +31,7 @@ highlighter: pygments
 permalink: pretty
 paginate: 8
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-relative_permalinks: true
+# relative_permalinks: true  ### jekyll 3.0 no supper
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
@@ -62,3 +62,5 @@ google_verify:
 bing_verify:
 
 # Links to include in footer navigation
+
+gems: [jekyll-paginate]
