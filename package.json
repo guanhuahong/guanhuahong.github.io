@@ -1,9 +1,9 @@
 {
-    "name": "clean-blog",
-    "title": "Clean Blog",
+    "name": "guanhuahongblog",
+    "title": "GuanhuaHong's Blog",
     "version": "1.0.0",
-    "homepage": "http://startbootstrap.com",
-    "author": "Start Bootstrap",
+    "homepage": "http://guanhuahong.github.io/",
+    "author": "GuanhuaHong",
     "license": {
         "type": "Apache 2.0",
         "url": "https://github.com/IronSummitMedia/startbootstrap/blob/gh-pages/LICENSE"
@@ -17,6 +17,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll.git"
+        "url": "https://github.com/guanhuahong/guanhuahong.github.io.git"
     }
 }
