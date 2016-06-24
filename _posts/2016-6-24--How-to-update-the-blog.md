@@ -18,8 +18,24 @@ clone博客
 
 2. 第二部添加博客到_post文件夹中，文件名以日期+名称+.md结尾的格式。
 
-> vim _post 2016-6-24-how-to-update-the-blog.md
+> vim _post 2016-6-24-How-to-update-the-blog.md
 
 3. 添加博客文件到git库中。
 
-> 
+> git add _post/2016-6-24-How-to-update-the-blog.md
+
+4. 查看修改和状态
+
+> git status
+
+5. 提交修改
+
+> git commit -m "如何更新博客到GitHub。"
+
+6. 更新到GitHub
+
+> git push origin master
+
+- 第一次提交需要输入GitHub的用户名和密码
+
+到此，一篇博客就添加成功了。
