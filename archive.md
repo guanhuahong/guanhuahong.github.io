@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "你看到的，是我写的所有技术文章"
-header-img: "img/orange.jpg"
+header-img: "img/orange.png"
 ---
 
 

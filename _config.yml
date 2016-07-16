@@ -4,6 +4,9 @@ header-img: "img/facebook.jpg"
 tagline: "cn"
 description: "懒人洪生"
 baseurl: ""
+jquerycdn: "//cdn.bootcss.com/jquery/2.1.3/jquery.min.js"
+bootstrapcdn: "//cdn.bootcss.com/bootstrap/3.3.2/js/bootstrap.min.js"
+cleanblogcdn: "//cdn.bootcss.com/startbootstrap-clean-blog/1.0.0/js/clean-blog.min.js"
 url: "http://guanhauhong.github.io"
 
 # About/contact
@@ -45,7 +48,7 @@ defaults:
     values:
       layout: "post"
       author: "CnFeat"
-      header-img: "img/facebook.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/facebook.png" # We don't want posts without a header image, that whould mean white on white
 
 # Comments
 comments :
