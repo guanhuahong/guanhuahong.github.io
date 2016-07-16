@@ -1,3 +1,13 @@
+---
+layout: post
+title: 关于国内gem install失败的原因
+date: 2016-07-16
+categories: blog
+tags: [ruby, gem, install, failed]
+description: rubygems.org被墙了
+---
+
+
 关于国内gem install失败的原因
 =================================================
 
