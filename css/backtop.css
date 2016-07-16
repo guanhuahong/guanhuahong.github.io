@@ -2,7 +2,15 @@
 #back-top {
   position: fixed;
   bottom: 30px;
-  margin-left: 1040px;
+  left: 50%;
+  margin-left: 500px;
+}
+@media screen and (max-width: 1148px) {
+  #back-top {
+    left: auto;
+    right: 10px;
+    margin-left: 0;
+  }
 }
 #back-top a {
   width: 54px;
