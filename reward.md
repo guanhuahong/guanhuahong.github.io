@@ -103,7 +103,6 @@ header-img: "img/green.png"
                 <tbody id="grid">
                 </tbody>
             </table>
-            <ul id="control"><a data-action="attendance" href="javascript:void(0)">签到</a></ul>
         </div>
     </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
