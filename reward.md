@@ -5,8 +5,6 @@ description: "幸运大抽奖"
 header-img: "img/green.png"
 ---
 
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
