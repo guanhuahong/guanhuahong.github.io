@@ -7,6 +7,10 @@ header-img: "img/green.png"
 
 
 <style>
+    .page {
+        position: relative;
+        min-height: 640px;
+    }
     #view {
         position: fixed;
         left: 50%;
@@ -67,7 +71,7 @@ header-img: "img/green.png"
 </style>
 
 
-<div id="page-prize-draw">
+<div id="page-prize-draw" class="page">
     <div class="menu">
         <a href="javascript:void(0)" data-page="#page-customer-list" class="menu-item">抽奖人员管理</a>
     </div>
@@ -76,7 +80,7 @@ header-img: "img/green.png"
         <button class="btn" id="choujiang">开始</button>
     </div>
 </div>
-<div id="page-customer-list" style="display: none">
+<div id="page-customer-list" style="display: none"  class="page">
     <ul class="nav">
         <li class="nav-item"><a class="nav-link active" data-page="#page-prize-draw" href="javascript:void(0)">继续抽奖</a></li>
         <li class="nav-item"><a class="nav-link active" data-filter href="javascript:void(0)">所有人员</a></li>
