@@ -179,7 +179,7 @@ header-img: "img/green.png"
         <a class="btn btn-secondary" data-page="#page-customer-list" href="javascript:void(0)">返回管理</a>
     </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-<script src="cj.js"></script>
+<script src="//guanhuahong.github.io/js/cj.js"></script>
 <script>
     $('#input-data').on('click', inputData);
     $('#input-number').on('click', inputNumber);
